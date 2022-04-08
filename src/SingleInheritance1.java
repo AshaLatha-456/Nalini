@@ -23,7 +23,7 @@ class B extends A
 {
 	int c=50;
 	int d=25;
-	int c=25;
+	int e=25;
 	void Sub() {
 		System.out.println(" Subration="+(c-d));
 	}
