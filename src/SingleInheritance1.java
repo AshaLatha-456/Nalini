@@ -14,6 +14,7 @@ public class SingleInheritance1 {
 class A{
 	int a=10;
 	int b=5;
+	int c=5;
 	void Add() {
 	System.out.println("addition="+(a+b));
 }
