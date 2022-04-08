@@ -18,7 +18,7 @@ public class Strings1 {
 			for (int j = i + 1; j < S.length(); j++) {
 				if(S.charAt(i)==S.charAt(j)) {
 					c++;
-			System.out.println(S.charAt(i));
+// 			System.out.println(S.charAt(i));
 			
 			break;
 				}
