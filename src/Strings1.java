@@ -13,6 +13,7 @@ public class Strings1 {
 		//char[] ch = S.toCharArray();
 		int c=0;
 		System.out.println("Duplicate characters are");
+		//this is my change
 		for (int i = 0; i < S.length(); i++) {
 			for (int j = i + 1; j < S.length(); j++) {
 				if(S.charAt(i)==S.charAt(j)) {
